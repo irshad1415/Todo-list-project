@@ -28,7 +28,8 @@ This interactive todo list web application helps users manage tasks efficiently.
 
 ## Demo
 
-[Link Text](https://irshad1415.github.io/Todo-list-project/)
+[Todo List Project-(https://irshad1415.github.io/Todo-list-project/)](https://irshad1415.github.io/Todo-list-project/)
+
 
 
 ## License
